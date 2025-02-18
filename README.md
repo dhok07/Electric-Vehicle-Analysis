@@ -25,7 +25,7 @@ This project analyzes EV adoption trends, highlighting top manufacturers, model 
   - What is the average electric range of the vehicles?
 
 ## Dashboard
-  - <a href="https://github.com/dhok07/Electric-Vehicle-Analysis/blob/main/README.md">Electric Vehicle Dashboard</a>
+  - <a href="https://github.com/dhok07/Electric-Vehicle-Analysis/blob/main/EV%20Analysis.pdf">Electric Vehicle Dashboard</a>
 
  ## Key Performance Indicators (KPIs)
    - Total Vehicles: 150.
