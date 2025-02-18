@@ -24,6 +24,9 @@ This project analyzes EV adoption trends, highlighting top manufacturers, model 
   - How are EVs distributed geographically?
   - What is the average electric range of the vehicles?
 
+## Dashboard
+  - <a href="https://github.com/dhok07/Electric-Vehicle-Analysis/blob/main/README.md">Electric Vehicle Dashboard</a>
+
  ## Key Performance Indicators (KPIs)
    - Total Vehicles: 150.
    - Average Electric Range: 67.88 miles
